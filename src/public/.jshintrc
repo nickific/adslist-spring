@@ -1,0 +1,9 @@
+{
+  "browser": true,
+  "devel": true,
+  "globalstrict": true,
+  "undef": true,
+  "unused": true,
+  "esversion": 7,
+  "strict": false
+}
