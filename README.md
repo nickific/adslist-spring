@@ -1,6 +1,7 @@
 A vulnerable Spring/Angular 2 application
 =========================================
 
+This sample is used on security trainings to demonstrate vulnerabilities.
 
 Run from command line:
 
